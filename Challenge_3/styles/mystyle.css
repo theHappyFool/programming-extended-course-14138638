@@ -1,0 +1,17 @@
+body {
+  margin-left: 50px;
+}
+
+#map {
+  height: 85vh;
+  width: 90vw;
+}
+
+#weather {
+  color: white;
+}
+
+div {
+  height: 50px;
+  width: 50px;
+}
